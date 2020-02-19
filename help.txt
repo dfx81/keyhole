@@ -1,0 +1,11 @@
+-----Help-----
+
+If this is your first time playing, this is an interactive fiction where
+all of your choices will affect the whole story. You enter your decisions
+when the game prompt you. Your decisions must be based on the given
+choices. You must type your decisions similar to the given choices without
+the apostrophes (").
+
+Remember to make your decisions wisely. Enjoy!
+
+-Developer [dfx]
